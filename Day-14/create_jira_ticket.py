@@ -16,7 +16,7 @@ headers = {
   "Content-Type": "application/json"
 }
 
-payload = json.dumps( {
+payload = json.dumps ( {
   "fields": {
     "project": {
             "key": "PY"
